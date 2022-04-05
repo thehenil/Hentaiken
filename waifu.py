@@ -119,7 +119,7 @@ def get_holoerourl():
 
 @bot.message_handler(commands = ['greet','start'])
 def greet(message):
-    msg = ''' Hey there, I'm Tsuzumi 💖
+    msg = ''' Hey there, I'm Hentaiken 💖
      I can fetch hottest anime and hentai images & send them to you
      Send /help to check the commands out. '''
     bot.send_message(message.chat.id, msg)
