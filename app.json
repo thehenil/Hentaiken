@@ -1,5 +1,5 @@
 {
-    "name": "Tsuzumi",
+    "name": "Hentaiken",
     "description": "A telegram bot written in python to fetch sfw and NSFW anime images",
     "keywords": [
         "bot",
@@ -11,8 +11,8 @@
         "anime-bot",
         "telegram"
     ],
-    "website": "https://github.com/Nisarga-Developer/Tsuzumi#readme",
-    "repository": "https://github.com/Nisarga-Developer/Tsuzumi.git",
+    "website": "https://github.com/thehenil/Hentaiken#readme",
+    "repository": "https://github.com/thehenil/Hentaiken.git",
     "env": {
         "TOKEN": {
             "description": "Token of your bot | Get from @BotFather (https://telegram.me/BotFather)"
